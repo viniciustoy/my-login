@@ -15,6 +15,8 @@ O projeto está sendo desenvolvido utilizando as seguintes tecnologias
 
 - [ReactJS](https://reactjs.org/)
 - [Javascript](https://www.javascript.com/)
+- [HTML5](https://html5.org/)
+- [CSS3](https://novatec.com.br/livros/css3/)
 
 ---
 ## 🗂  Como baixar 
