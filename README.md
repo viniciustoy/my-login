@@ -31,6 +31,9 @@ $ npm intall
 
 # Iniciar o projeto
 $ npm start
+
+# senha de acesso 
+$ eusei 
 ```
 ---
 Desenvolvido por **Marcos vinicius** 💪🏼 
